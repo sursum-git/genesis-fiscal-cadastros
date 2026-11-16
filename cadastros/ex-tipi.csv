@@ -1,0 +1,588 @@
+codigo_tipi,codigo_ex,c_descricao,aliquota_ipi
+0210.91.00,01,Miudezas; farinhas e pós dessas miudezas,NT
+0210.92.00,01,Miudezas; farinhas e pós dessas miudezas,NT
+0210.93.00,01,Miudezas; farinhas e pós dessas miudezas,NT
+0210.99.90,01,Farinhas e pós das miudezas do código 0210.99.40,NT
+0305.71.00,01,"De tubarão seco, mesmo salgado mas não defumado",3.25
+0305.72.00,01,"De peixes defumados, mesmo em filés, exceto dos códigos 0305.41.00, 0305.42.00 e 0305.49.10",0
+0305.72.00,02,"De peixes salgados, não secos nem defumados e peixes em salmoura, exceto dos códigos 0305.61.00 e 0305.62.00",0
+0305.79.00,01,"De peixes defumados, mesmo em filés, exceto dos códigos 0305.41.00, 0305.42.00 e 0305.49.10",0
+0305.79.00,02,"De peixes salgados, não secos nem defumados e peixes em salmoura, exceto dos códigos 0305.61.00 e 0305.62.00",0
+0401.40.21,01,Acondicionado em recipiente metálico hermeticamente fechado,0
+0401.40.29,01,Acondicionados em recipientes metálicos hermeticamente fechados,0
+0401.50.21,01,Acondicionado em recipiente metálico hermeticamente fechado,0
+0401.50.29,01,Acondicionados em recipientes metálicos hermeticamente fechados,0
+0402.91.00,01,Leite em estado líquido,NT
+0402.99.00,01,Leite em estado líquido,NT
+0403.20.00,01,Acondicionado em embalagem de apresentação,0
+0403.90.00,01,Acondicionados em embalagem de apresentação,0
+0404.10.00,01,"Concentrado ou adicionado de açúcar ou de outros edulcorantes, em estado pastoso ou sólido",0
+0404.90.00,01,"Concentrado ou adicionado de açúcar ou de outros edulcorantes, em estado pastoso ou sólido",0
+0408.19.00,01,Frescas,NT
+0408.99.00,01,Frescos,NT
+0409.00.00,01,Acondicionado em embalagem de apresentação,0
+0711.40.00,01,"Com água salgada, sulfurada ou adicionada de outras substâncias",NT
+0711.51.00,01,"Com água salgada, sulfurada ou adicionada de outras substâncias",NT
+0711.59.00,01,"Com água salgada, sulfurada ou adicionada de outras substâncias",NT
+0711.90.00,01,"Com água salgada, sulfurada ou adicionada de outras substâncias",NT
+0712.90.90,01,Milho doce,NT
+0801.11.00,01,Acondicionados em embalagens de apresentação,0
+0801.21.00,01,Seca e acondicionada em embalagem de apresentação,0
+0801.22.00,01,Seca e acondicionada em embalagem de apresentação,0
+0801.31.00,01,Seca e acondicionada em embalagem de apresentação,0
+0801.32.00,01,Seca e acondicionada em embalagem de apresentação,0
+0803.10.00,01,Secas e acondicionadas em embalagens de apresentação,0
+0803.90.00,01,Secas e acondicionadas em embalagens de apresentação,0
+0804.30.00,01,Secos e acondicionados em embalagens de apresentação,0
+0804.40.00,01,Secos e acondicionados em embalagens de apresentação,0
+0804.50.10,01,Secas e acondicionadas em embalagens de apresentação,0
+0804.50.20,01,Secas e acondicionadas em embalagens de apresentação,0
+0804.50.30,01,Secos,0
+0805.10.00,01,Secas,0
+0805.21.00,01,Secas,0
+0805.22.00,01,Secas,0
+0805.29.00,01,Secos,0
+0805.40.00,01,Secos,0
+0805.50.00,01,Secos,0
+0805.90.00,01,Secos,0
+0811.10.00,01,Adicionados de açúcar ou de outros edulcorantes,0
+0811.20.00,01,Adicionados de açúcar ou de outros edulcorantes,0
+0811.90.00,01,Adicionados de açúcar ou de outros edulcorantes,0
+0901.11.90,01,Moídos,0
+0901.90.00,01,Cascas e películas de café,NT
+0903.00.10,01,Embalagens imediatas de conteúdo não superior a 5 kg,0
+0903.00.90,01,Ex 01 - Embalagens imediatas de conteúdo não superior a 5 kg,0
+1211.20.00,01,Secas,0
+1211.30.00,01,Seca,0
+1211.40.00,01,Seca,0
+1211.50.00,01,Seca,0
+1211.60.00,01,Seca,0
+1211.90.10,01,Seco,0
+1211.90.90,01,Secos,0
+1212.21.00,01,Congeladas,NT
+1212.29.00,01,"Das espécies utilizadas principalmente em medicina, secas",0
+1212.92.00,01,"Seca, incluídas as suas sementes",0
+1521.10.00,01,"Refinadas, branqueadas ou coloridas artificialmente",0
+1521.90.19,01,"Refinadas, branqueadas ou coloridas artificialmente",0
+1521.90.90,01,"Ceras de insetos, refinadas, branqueadas ou coloridas artificialmente",0
+1521.90.90,02,"Espermacete, prensado ou refinado",0
+1701.99.00,01,Sacarose quimicamente pura,0
+1801.00.00,01,Torrado,0
+1806.90.00,01,"Achocolatados, assim entendidos os produtos à base de chocolate, em pó ou em grânulos, destinados à mistura com água ou leite",0
+1901.20.10,01,Pré-misturas próprias para fabricação de pão do tipo comum,0
+1901.20.90,01,Pré-misturas próprias para fabricação de pão do tipo comum,0
+1905.90.90,01,Pão do tipo comum,0
+2002.10.00,01,Cozidos (exceto em água ou vapor) e congelados,NT
+2002.90.00,01,Cozidos (exceto em água ou vapor) e congelados,NT
+2003.10.00,01,Cozidos (exceto em água ou vapor) e congelados,NT
+2003.90.00,01,Cozidos (exceto em água ou vapor) e congelados,NT
+2003.90.00,02,Trufas cozidas (exceto em água ou vapor) e congeladas,NT
+2003.90.00,03,Outras trufas,3.25
+2004.10.00,01,Cozidas (exceto em água ou vapor),NT
+2004.90.00,01,Cozidos (exceto em água ou vapor),NT
+2008.19.00,01,"Cozidos (exceto em água e vapor), congelados e sem adição de açúcar ou de outros edulcorantes, excluídas as misturas",NT
+2008.20.90,01,"Cozidos (exceto em água e vapor), congelados e sem adição de açúcar ou de outros edulcorantes",NT
+2008.30.00,01,"Cozidos (exceto em água e vapor), congelados e sem adição de açúcar ou de outros edulcorantes",NT
+2008.40.90,01,"Cozidas (exceto em água e vapor), congeladas e sem adição de açúcar ou de outros edulcorantes",NT
+2008.50.00,01,"Cozidos (exceto em água e vapor), congelados e sem adição de açúcar ou de outros edulcorantes",NT
+2008.60.90,01,"Cozidas (exceto em água e vapor), congeladas e sem adição de açúcar ou de outros edulcorantes",NT
+2008.70.90,01,"Cozidos (exceto em água e vapor), congelados e sem adição de açúcar ou de outros edulcorantes",NT
+2008.80.00,01,"Cozidos (exceto em água e vapor), congelados e sem adição de açúcar ou de outros edulcorantes",NT
+2008.93.00,01,"Cozidos (exceto em água e vapor), congelados e sem adição de açúcar ou de outros edulcorantes",NT
+2008.97.90,01,"Cozidas (exceto em água e vapor), congeladas e sem adição de açúcar ou de outros edulcorantes",NT
+2008.99.00,01,"Cozidas (exceto em água e vapor), congeladas e sem adição de açúcar ou de outros edulcorantes",NT
+2102.20.00,01,Leveduras mortas,0
+2106.90.10,01,"Preparações compostas, não alcoólicas (extratos concentrados ou sabores concentrados), para elaboração de bebida da posição 22.02, com capacidade de diluição superior a 10 partes da bebida para cada parte do concentrado",8
+2106.90.10,02,"Preparações compostas, não alcoólicas (extratos concentrados ou sabores concentrados), para elaboração de bebida refrigerante do Capítulo 22, com capacidade de diluição de até 10 partes da bebida para cada parte do concentrado",0
+2201.10.00,01,Águas minerais naturais comercializadas em recipientes com capacidade nominal inferior a 10 (dez) litros,NT
+2201.10.00,02,Águas minerais naturais comercializadas em recipientes com capacidade nominal igual ou superior a 10 (dez) litros,NT
+2202.10.00,01,Refrescos,2.6
+2202.99.00,01,Bebidas alimentares à base de soja ou de leite e cacau,0
+2202.99.00,02,Néctares de frutas,0
+2202.99.00,03,"Alimentos para praticantes de atividade física nos termos da Resolução RDC nº 18, de 27 de abril de 2010, da Agência Nacional de Vigilância Sanitária, do Ministério da Saúde: repositores hidroeletrolíticos e outros",2.6
+2202.99.00,04,"Compostos líquidos pronto para consumo nos termos da Resolução RDC nº 273, de 22 de setembro de 2005, da Agência Nacional de Vigilância Sanitária, do Ministério da Saúde",2.6
+2202.99.00,05,"Bebidas alimentares à base ou elaboradas a partir de matérias-primas vegetais classificadas nas posições 08.01 ou 08.02, no Capítulo 10 ou no Capítulo 12, exceto a posição 12.01, que não contenham leite animal, produtos lácteos ou gorduras deles derivados em sua composição",0
+2203.00.00,01,Chope,3.9
+2204.21.00,01,"Vinhos da madeira, do porto e de xerez",13
+2204.22.11,01,"Vinhos da madeira, do porto e de xerez",13
+2204.22.19,01,"Vinhos da madeira, do porto e de xerez",13
+2204.29.10,01,"Vinhos da madeira, do porto e de xerez",13
+2206.00.90,01,Com teor alcoólico superior a 14%,13
+2207.10.10,01,"Para fins carburantes, com as especificações determinadas pela ANP",NT
+2207.10.10,02,Retificado (álcool neutro),5.2
+2207.10.90,01,"Para fins carburantes, com as especificações determinadas pela ANP",NT
+2207.10.90,02,Retificado (álcool neutro),5.2
+2207.20.11,01,"Para fins carburantes, com as especificações determinadas pela ANP",NT
+2207.20.19,01,"Para fins carburantes, com as especificações determinadas pela ANP",NT
+2208.40.00,01,Rum e outras aguardentes obtidas do melaço da cana,19.5
+2208.90.00,01,Álcool etílico,5.2
+2208.90.00,02,Bebida refrescante com teor alcoólico inferior a 8%,13
+2309.90.10,01,Para cães e gatos,6.5
+2309.90.60,01,"Preparações alimentícias para cães e gatos, não acondicionadas para a venda a retalho",6.5
+2309.90.90,01,Preparações destinadas a fornecer a cães e gatos a totalidade dos elementos nutritivos necessários para uma alimentação diária racional e equilibrada (alimentos compostos completos),6.5
+2402.10.00,01,Cigarrillhas,300
+2402.20.00,01,Feitos à mão,30
+2402.90.00,01,"Cigarros não contendo tabaco, exceto os feitos à mão",300
+2501.00.90,01,Cloreto de sódio puro,0
+2503.00.10,01,Em bruto ou não refinado,NT
+2710.12.90,01,Óleos parcialmente refinados,NT
+2710.12.90,02,Óleos para lamparina de mecha (signal-oil),NT
+2710.19.99,01,Óleos parcialmente refinados,NT
+2710.19.99,02,Óleos para lamparina de mecha (signal-oil),NT
+2710.20.00,01,"Óleos leves e preparações, exceto óleos para lamparina de mecha (signal-oil)",5.2
+2853.90.90,01,Ar comprimido,NT
+3102.50.90,01,"Com teor de nitrogênio superior a 16,3% em peso",0
+3102.90.00,01,Cianamida cálcica com teor de nitrogênio superior a 25% em peso,0
+3105.10.00,01,"Nitrato de sódio com teor de nitrogênio superior a 16,3% em peso",0
+3105.10.00,02,Cianamida cálcica com teor de nitrogênio superior a 25% em peso,0
+3105.10.00,03,Sulfato de potássio com teor de óxido de potássio (K2O) superior a 52% em peso,0
+3105.10.00,04,Sulfato duplo de magnésio e potássio com teor de óxido de potássio (K2O) com teor superior a 30% em peso,0
+3304.91.00,01,Talco e polvilho com ou sem perfume,7.8
+3304.99.90,01,Preparados bronzeadores,7.8
+3304.99.90,02,"Preparados antissolares, exceto os que possuam propriedades de bronzeadores",0
+3305.90.00,01,Condicionadores,4.55
+3307.90.00,01,Soluções para lentes de contato ou para olhos artificiais,7.8
+3401.11.90,01,Sabão,0
+3401.19.00,01,"Papel, pastas (ouates), feltros e falsos tecidos, impregnados, revestidos ou recobertos de sabão ou de detergentes",6.5
+3401.19.00,02,Produtos e preparações orgânicos tensoativos utilizados como sabão,6.5
+3401.19.00,03,Sabão,0
+3602.00.00,01,À base de poliálcoois (dinamite); outros explosivos preparados com efeito equivalente ao da dinamite,3.25
+3604.90.90,01,Foguetes e artigos semelhantes para sinalização,6.5
+3702.52.00,01,Filmes cinematográficos de 16 mm de largura e comprimento superior a 14 m,0
+3702.96.00,01,De largura não superior a 16 mm e comprimento superior a 14 m,0
+3702.97.00,01,De largura não superior a 16 mm,9.75
+3704.00.00,01,Chapas e filmes,0
+3806.90.90,01,Gomas fundidas,6.5
+3807.00.00,01,Solventes e diluentes compostos para vernizes ou produtos semelhantes,6.5
+3808.94.11,01,"Com propriedades acessórias odoríferas ou desodorizantes de ambientes, apresentados em embalagem tipo aerossol",30
+3808.94.19,01,"Com propriedades acessórias odoríferas ou desodorizantes de ambientes, apresentados em embalagem tipo aerossol",30
+3808.94.19,02,À base de hipoclorito de sódio,0
+3808.94.21,01,Com propriedades acessórias odoríferas ou desodorizantes de ambientes,19.5
+3808.94.22,01,Com propriedades acessórias odoríferas ou desodorizantes de ambientes,19.5
+3808.94.29,01,Com propriedades acessórias odoríferas ou desodorizantes de ambientes,19.5
+3808.94.29,02,À base de hipoclorito de sódio,0
+3809.92.90,01,Preparações ignífugas,6.5
+3809.93.90,01,Preparações ignífugas,6.5
+3816.00.90,01,Aglomerados de dolomita,NT
+3823.70.40,01,Com características de ceras artificiais,9.75
+3823.70.90,01,Com características de ceras artificiais,9.75
+3824.99.61,01,À base de gadoterato de meglumina ou de gadoteridol,0
+3824.99.79,01,Micronutrientes,NT
+3826.00.00,01,Biodiesel,NT
+3906.10.00,01,"Em pó, de granulometria de 50 a 400 mesh, próprio para uso odontológico",0
+3906.90.51,01,"Em pó, de granulometria de 50 a 400 mesh, próprios para uso odontológico",0
+3906.90.59,01,"Em pó, de granulometria de 50 a 400 mesh, próprios para uso odontológico",0
+3906.90.69,01,"Em pó, de granulometria de 50 a 400 mesh, próprios para uso odontológico",0
+3916.20.00,01,Forros de poli(cloreto de vinila) (PVC) utilizados na construção civil,3.25
+3917.32.29,01,"Canudos para sorver líquidos, de plástico",6.75
+3919.10.10,01,"Fitas autoadesivas, em rolos",15
+3919.10.20,01,"Fitas autoadesivas, em rolos",15
+3919.90.90,01,Películas autoadesivas,15
+3920.20.19,01,"Substrato de polipropileno biaxialmente orientado, recoberto em ambas as faces da folha por camadas de tinta opacificante que propiciam receber as impressões ofsete seco, calcográfica, tipográfica e vernizes de proteção com cura a ultravioleta",0
+3920.30.00,01,Laminados rígidos utilizados para revestimento de móveis,3.25
+3920.49.00,01,Laminados rígidos de poli(cloreto de vinila) (PVC) utilizados para revestimento de móveis,3.25
+3920.62.99,01,Laminados de poli(tereftalato de etileno) (PET) para revestimento,3.25
+3923.30.90,01,"Esboços de garrafas de plástico, fechados em uma extremidade e aberta na outra, munida de uma rosca sobre a qual irá adaptar-se a uma tampa roscada, devendo a parte abaixo da rosca ser transformada, posteriormente, para que seja obtida a dimensão e forma desejadas",0
+3924.10.00,01,"Pratos, xícaras, taças, copos e artigos semelhantes, descartáveis, de plástico",6.75
+3926.20.00,01,Cintos,6.5
+3926.90.40,01,Exclusivamente de laboratório de análises clínicas,0
+3926.90.90,01,Forma para fabricação de calçados,0
+3926.90.90,02,Máscara de proteção,0
+3926.90.90,03,"Revestimento para canais de irrigação, de PVC flexível ou semelhante, com ilhoses para fixação no solo",5.2
+3926.90.90,04,"Cinto, colete, boia e equipamento semelhante de salvamento",6.5
+3926.90.90,05,Brincos e pulseiras para identificação de animais,6.5
+3926.90.90,06,"Cabos para ferramentas, utensílios e aparelhos",6.5
+3926.90.90,07,Parafusos e porcas,6.5
+3926.90.90,08,"Recipiente com serpentina e depósito para gelo, próprio para gelar bebidas",13
+3926.90.90,09,Leques e ventarolas,13
+3926.90.90,10,Bolsas para coleta de sangue e seus componentes e bolsas de diálise peritoneal (infusão e drenagem),0
+4008.21.00,01,"Remendo e manchão, com superfície recoberta de produtos autovulcanizantes a frio e protegidos por papel, plástico ou outra matéria",3.25
+4011.70.10,01,Para máquinas e tratores agrícolas,1.3
+4011.70.90,01,Para máquinas e tratores agrícolas,1.3
+4012.11.00,01,Remoldados,9.75
+4012.12.00,01,Remoldados,1.3
+4012.19.00,01,"Remoldados, exceto para máquinas e tratores agrícolas",9.75
+4012.19.00,02,"Remoldados, para máquinas e tratores agrícolas",1.3
+4013.10.90,01,Dos tipos utilizados em ônibus ou caminhões,1.3
+4013.90.00,01,Dos tipos utilizados em colheitadeiras ou tratores agrícolas,1.3
+4015.19.00,01,De segurança e proteção,0
+4015.90.00,01,"Vestuário de segurança e proteção, mesmo com seus acessórios",0
+4016.91.00,01,Tapetes próprios para ônibus ou caminhões,1.95
+4016.91.00,02,"Tapetes próprios para veículos automóveis, exceto ônibus ou caminhões",9.75
+4016.99.90,01,Sapatas,0
+4016.99.90,02,"Partes dos produtos das posições 86.08, 87.10 e 87.13",0
+4016.99.90,03,Viras para calçados,3.25
+4017.00.00,01,"Placas de borracha endurecida com encaixes de sobreposição, obtidas pela trituração de sucata de pneumáticos",2.6
+4017.00.00,02,"Estrado de borracha endurecida, obtido pela trituração de sucata de pneumáticos",2.6
+4017.00.00,03,"Borracha endurecida sob quaisquer formas, incluídos os desperdícios e resíduos",9.75
+4203.29.00,01,"De proteção, para trabalho manual",0
+4206.00.00,01,Cordas de tripa,0
+4302.20.00,01,"Cabeças, caudas, patas e outras partes, desperdícios e aparas, de coelho ou de lebre",6.5
+4302.20.00,02,"Cabeças, caudas, patas e outras partes, desperdícios e aparas, de bovino, de ovino ou de caprino",6.5
+4302.30.00,01,"De bovino, ovino, caprino, coelho ou de lebre",6.5
+4302.30.00,02,"Peles ""alongadas"", exceto de bovino, ovino, caprino, coelho ou de lebre",26
+4303.10.00,01,"De bovino, ovino, caprino, coelho ou de lebre",6.5
+4303.90.00,01,"De bovino, ovino, caprino, coelho ou de lebre",6.5
+4403.11.00,01,Esquadriada,0
+4403.12.00,01,Esquadriadas,0
+4403.21.00,01,Esquadriada,0
+4403.22.00,01,Esquadriada,0
+4403.23.00,01,Esquadriada,0
+4403.24.00,01,Esquadriada,0
+4403.25.00,01,Esquadriadas,0
+4403.26.00,01,Esquadriadas,0
+4403.41.00,01,Esquadriada,0
+4403.42.00,01,Esquadriada,0
+4403.49.00,01,Esquadriadas,0
+4403.91.00,01,Esquadriada,0
+4403.93.00,01,Esquadriada,0
+4403.94.00,01,Esquadriada,0
+4403.95.00,01,Esquadriada,0
+4403.96.00,01,Esquadriada,0
+4403.97.00,01,Esquadriada,0
+4403.98.00,01,Esquadriada,0
+4403.99.00,01,Esquadriadas,0
+4501.90.00,01,"Cortiça triturada, granulada ou pulverizada",0
+4801.00.30,01,Em rolos de largura não superior a 36 cm,3.25
+4801.00.90,01,Em rolos de largura não superior a 36 cm,3.25
+4823.69.00,01,"Pratos, xícaras, taças, copos e artigos semelhantes, descartáveis, de papel ou cartão",6.75
+4823.90.99,01,"Canudos para sorver líquidos, de papel ou cartão",6.75
+4902.10.00,01,Com publicidade,0
+4902.90.00,01,Com publicidade,0
+4911.91.00,01,Fotografias tiradas diretamente,NT
+4911.99.00,01,"Textos manuscritos ou datilografados, e suas cópias obtidas por meio de papel carbono ou fotocópia",NT
+5301.10.00,01,Em bruto,NT
+5302.10.00,01,Em bruto,NT
+5303.10.10,01,Macerada,0
+5303.10.90,01,Maceradas,0
+5305.00.90,01,"Estopas e desperdícios, exceto de sisal",NT
+5305.00.90,02,"Em bruto, exceto sisal",NT
+6701.00.00,01,"Pena solta; pele com pena, inteira, em parte, emendada ou não",NT
+6701.00.00,02,"Artefatos de peles de aves providas de suas penas, de penas, de partes de penas e de penugem, exceto leques e ventarolas",13
+6701.00.00,03,Leques e ventarolas,13
+6802.10.00,01,Ladrilhos e placas (lajes) para pavimentação ou revestimento,0.65
+6802.21.00,01,Ladrilhos e placas (lajes) para pavimentação ou revestimento,0.65
+6802.23.00,01,Ladrilhos e placas (lajes) para pavimentação ou revestimento,0.65
+6802.29.00,01,Ladrilhos e placas (lajes) para pavimentação ou revestimento,0.65
+6802.91.00,01,Ladrilhos e placas (lajes) para pavimentação ou revestimento,0.65
+6802.92.00,01,Ladrilhos e placas (lajes) para pavimentação ou revestimento,0.65
+6802.93.90,01,Ladrilhos e placas (lajes) para pavimentação ou revestimento,0.65
+6802.99.90,01,Ladrilhos e placas (lajes) para pavimentação ou revestimento,0.65
+6803.00.00,01,Ladrilhos e placas (lajes) para pavimentação ou revestimento,0.65
+6806.10.00,01,Lã de rocha e lã mineral,6.5
+6806.90.90,01,Obras de lã de rocha e de lã mineral,6.5
+6807.90.00,01,Telhas onduladas,0
+6813.20.00,01,Guarnições para freios e disco de fricção para embreagens,9.75
+7001.00.00,01,"Cacos, fragmentos e outros desperdícios e resíduos, exceto os de vidro óptico",NT
+7001.00.00,02,"De vidro óptico, inclusive cacos, fragmentos e outros desperdícios e resíduos",0
+7002.10.00,01,De vidro óptico,0
+7002.20.00,01,De vidro óptico,0
+7002.31.00,01,De vidro óptico,0
+7002.32.00,01,De vidro óptico,0
+7002.39.00,01,De vidro óptico,0
+7003.12.00,01,De vidro óptico,0
+7003.19.00,01,De vidro óptico,0
+7004.20.00,01,De vidro óptico,0
+7004.90.00,01,De vidro óptico,0
+7005.10.00,01,De vidro óptico,0
+7005.21.00,01,De vidro óptico,0
+7005.29.00,01,De vidro óptico,0
+7006.00.00,01,De vidro óptico,0
+7007.11.00,01,"Para ônibus ou caminhões, nas seguintes dimensões (admitida a tolerância de até 5%, para mais ou para menos): 1.693 x 575 x 6,75 mm; 1.305 x 489 x 6 mm; 728 x 489 x 6 mm; 640 x 220 x 4,8 mm; e 600 x 595 x 4,8 mm",1.95
+7007.21.00,01,"Para ônibus ou caminhões, nas seguintes dimensões (admitida a tolerância de até 5%, para mais ou para menos): 2.075 x 787 x 6,76 mm; 1.950 x 800 x 6 mm; 1.800 x 800 x 6 mm; 1.693 x 575 x 6,75 mm; e 1.300 x 1.235 x 6 mm",1.95
+7009.10.00,01,Para ônibus ou caminhões,1.95
+7013.42.90,01,Decantadores de vinho,9.75
+7013.49.00,01,Decantadores de vinho,9.75
+7014.00.00,01,De vidro óptico,0
+7102.10.00,01,Em bruto,NT
+7102.31.00,01,Em bruto,NT
+7112.30.10,01,"Do tipo dos utilizados principalmente para recuperação de metal precioso, exceto cinzas ou lixo de ourivessaria",NT
+7112.30.20,01,"Do tipo dos utilizados principalmente para recuperação de metal precioso, exceto cinzas ou lixo de ourivessaria",NT
+7112.30.90,01,"Do tipo dos utilizados principalmente para recuperação de metal precioso, exceto cinzas ou lixo de ourivessaria",NT
+7112.91.00,01,Resíduos do tipo dos utilizados para recuperação desse metal,NT
+7112.92.00,01,Resíduos do tipo dos utilizados para recuperação desse metal,NT
+7112.99.00,01,Resíduos do tipo dos utilizados para recuperação de metal precioso,NT
+7308.90.90,01,Telhas de aço,0
+7312.10.90,01,Cordoalha de aço para concreto protendido,3.25
+7314.20.00,01,"De aço, não revestidas, para estruturas ou obras de concreto armado ou argamassa armada",0
+7314.39.00,01,"De aço, não revestidas, para estruturas ou obras de concreto armado ou argamassa armada",0
+7320.10.00,01,"Para ônibus ou caminhões, com espessura da folha igual ou superior a 9 mm",2.6
+7321.11.00,01,Fogões de cozinha,2.6
+7321.12.00,01,Fogões de cozinha,2.6
+7321.19.00,01,Fogões de cozinha,2.6
+7321.90.00,01,De fogões de cozinha,2.6
+7323.10.00,01,Esponja de lã de aço,3.25
+7419.20.00,01,"Correntes, cadeias, e suas partes",3.25
+7419.80.90,01,"Aparelhos não elétricos, para cozinhar ou aquecer, dos tipos utilizados para uso doméstico, e suas partes",6.5
+7616.99.00,01,Chapas estampadas,5
+8208.40.00,01,Navalhas triangulares (faquinhas serrilhadas) de uso em colheitadeiras agrícolas,2.6
+8306.10.00,01,Sinos e carrilhões,0
+8308.90.90,01,Partes,0
+8310.00.00,01,Triângulo de segurança,9.75
+8408.20.20,01,"De ônibus ou caminhões, de potência igual ou superior a 125 HP",2.6
+8408.20.20,02,"De tratores agrícolas, com até 2.600 rpm em potência máxima",2.6
+8408.20.30,01,"De ônibus ou caminhões, de potência igual ou superior a 125 HP",2.6
+8408.20.30,02,"De tratores agrícolas, com até 2.600 rpm em potência máxima",2.6
+8408.20.90,01,"De ônibus ou caminhões, de potência igual ou superior a 125 HP",2.6
+8408.20.90,02,"De tratores agrícolas, com até 2.600 rpm em potência máxima",2.6
+8409.91.90,01,"Para ciclomotores, motonetas, motocicletas, triciclos e quadriciclos",5
+8409.99.12,01,"De motores de ônibus ou caminhões, de potência igual ou superior a 125 HP",2.6
+8409.99.41,01,"De motores de ônibus ou caminhões, de potência igual ou superior a 125 HP",2.6
+8409.99.49,01,"De motores de ônibus ou caminhões, de potência igual ou superior a 125 HP",2.6
+8409.99.51,01,"De motores de ônibus ou caminhões, de potência igual ou superior a 125 HP",2.6
+8409.99.59,01,"De motores de ônibus ou caminhões, de potência igual ou superior a 125 HP",2.6
+8409.99.99,01,"Carcaças de motores de ônibus ou caminhões, de potência igual ou superior a 125 HP",2.6
+8413.30.10,01,"Para ciclomotores, motonetas, motocicletas, triciclos e quadriciclos",5
+8413.30.20,01,"Em linha, com elementos de injeção de diâmetro igual ou superior a 9,5 mm, para motores de potência igual ou superior a 125 HP, próprios para ônibus ou caminhões",2.6
+8413.91.90,01,"De bombas injetoras em linha, com elementos de injeção de diâmetro igual ou superior a 9,5 mm, para motores de ignição por compressão de potência igual ou superior a 125 HP, próprios para ônibus ou caminhões",2.6
+8414.60.00,01,Do tipo doméstico,9.75
+8415.10.11,01,Com capacidade inferior a 7.500 frigorias/hora,35
+8415.90.10,01,Com capacidade inferior a 7.500 frigorias/hora,35
+8415.90.20,01,Com capacidade inferior a 7.500 frigorias/hora,35
+8418.30.00,01,De capacidade não superior a 400 litros,9.75
+8418.40.00,01,De capacidade não superior a 400 litros,9.75
+8418.69.31,01,Bebedouros refrigerados,6.5
+8418.69.40,01,Para ar-condicionado,13
+8418.69.99,01,Máquinas para produção de gelo em embarcações pesqueiras,0
+8418.69.99,02,"Grupos de compressão, exceto para ar-condicionado, ou de absorção",3.25
+8418.69.99,03,Máquinas para produção de gelo em cubos ou escamas,3.25
+8418.69.99,04,"Instalações frigoríficas industriais, formadas por elementos não reunidos em corpo único nem montados sobre base comum, com câmara frigorífica de capacidade superior a 30 m³",0
+8418.69.99,05,"Próprios para conservação de sangue humano, funcionando com temperatura estável entre 2°C e 6°C",0
+8418.99.00,01,Condensador frigorífico e evaporador frigorífico,3.25
+8419.11.00,01,Para uso doméstico,6.5
+8419.89.19,01,"Dos tipos utilizados em bares, restaurantes, cantinas e semelhantes",5.2
+8419.89.99,01,Torres de resfriamento de água,0
+8421.19.90,01,Centrifugadores para uso doméstico,15.6
+8421.23.00,01,"Filtro de óleo lubrificante, não descartável, equipado com elemento filtrante de papel (substituível), para uso em motores de ignição por compressão, de potência igual ou superior a 125 HP, próprios para ônibus ou caminhões",2.6
+8421.23.00,02,"Filtro de óleo lubrificante, não descartável, equipado com elemento filtrante de papel (substituível), para uso em motores de ignição por compressão, com até 2.600 rpm em potência máxima, próprios para colheitadeiras ou tratores agrícolas",2.6
+8421.32.00,01,"Conversores catalíticos, exceto para veículos",0
+8421.32.00,02,Filtros de partículas,0
+8422.19.00,01,Com capacidade de lavagem superior a 1000 pratos por hora,0
+8423.10.00,01,De uso doméstico,13
+8428.60.00,01,Telecadeiras e telesquis,6.5
+8432.80.00,01,Rolos para gramados,3.25
+8433.90.90,01,De colheitadeiras,2.6
+8450.11.00,01,De uso doméstico,13
+8450.12.00,01,De uso doméstico,13
+8450.19.00,01,De uso doméstico,6.5
+8450.20.90,01,"De capacidade, expressa em peso de roupa seca, superior a 20 Kg",0
+8451.21.00,01,De uso doméstico,13
+8451.80.00,01,De uso doméstico,7.8
+8452.90.20,01,Para máquinas de costura de uso doméstico,1.95
+8470.10.00,01,Calculadora equipada com sintetizador de voz,0
+8470.50.10,01,Terminal ponto de venda ou terminal de captura de dados,15
+8471.60.52,01,Com colmeia,0
+8471.60.53,01,Indicador ou apontador (mouse) com entrada para acionador,0
+8471.60.53,02,Acionador de pressão,0
+8471.60.90,01,Linha Braille,0
+8471.70.10,01,Discos rígidos,10
+8471.90.14,01,Equipados com sintetizador de voz,0
+8472.10.00,01,Duplicador Braille,0
+8472.90.99,01,Máquinas não automáticas de escrever em Braille,0
+8473.40.90,01,De máquinas de escrever ou de máquinas de tratamento de textos,13
+8481.80.29,01,"Do tipo gaveta ou do tipo esfera, de ferro ou aço ou de cobre e suas ligas; e do tipo globo, do tipo borboleta, do tipo agulha ou do tipo diafragma, de ferro ou aço",3.25
+8481.90.10,01,Dos dispositivos do item 8481.80.1,0
+8483.10.19,01,"Para motores de ignição por compressão de potência igual ou superior a 125 HP, próprios para ônibus ou caminhões",2.6
+8485.90.00,01,"De máquinas para fabricação aditiva por depósito de matérias, exceto de plástico, de borracha ou de vidro",0
+8501.10.11,01,Próprios para utilização em brinquedos,6.5
+8501.51.10,01,"De alto rendimento, segundo norma NBR 17094",0
+8503.00.90,01,Partes utilizadas exclusiva ou principalmente em aerogeradores classificados no código 8502.31.00,0
+8504.31.99,01,"Transformadores de deflexão (yokes), para tubos de raios catódicos",13
+8504.40.21,01,Para unidades digitais de processamento de pequena capacidade,5
+8505.20.90,01,Embreagem eletromagnética para colheitadeiras,2.6
+8507.10.90,01,"Do tipo utilizado para o arranque dos motores de ignição por compressão, com intensidade de corrente igual ou superior a 90 Ah",2.6
+8507.60.00,01,Para telefones inteligentes (smartphones),15
+8511.40.00,01,"Para sistema elétrico em 24 V, com potência igual ou superior a 3 kW",2.6
+8511.50.10,01,"Para sistema elétrico em 24 V, exceto para uso em aeronáutica",2.6
+8512.20.11,01,Para colheitadeiras ou tratores agrícolas,2.6
+8512.20.21,01,Lanternas para tratores agrícolas,2.6
+8514.11.00,01,Industriais,0
+8514.19.00,01,Industriais,0
+8514.20.20,01,Industriais,0
+8514.32.00,01,"Fornos de arco a vácuo, industriais",0
+8514.32.00,02,Fornos de plasma,0
+8514.39.00,01,"Fornos de resistência (de aquecimento direto), exceto industriais",3.25
+8516.10.00,01,Chuveiro elétrico,0
+8516.60.00,01,Fogões de cozinha,3.25
+8516.90.00,01,De fogões de cozinha,5
+8517.18.90,01,Telefones públicos,9.75
+8517.62.15,01,"Moduladores OFDM (Orthogonal Frequency Division Multiplex), com sintaxe MPEG-TS (MPEG-Transport Stream), para sistemas de televisão digital terrestre",0
+8517.62.15,02,"Multiplexadores de sinais de áudio, vídeo e dados para sistemas de televisão digital terrestre, com entrada ASI e saída TS (Transport Stream)",0
+8517.62.55,01,Para comunicação de dados via televisão a cabo (cable modem),15
+8517.62.99,01,Receptores pessoais de radiomensagens,9.75
+8517.79.00,01,"Circuitos impressos com componentes elétricos ou eletrônicos, montados",15
+8519.81.90,01,"Aparelho gravador de som para cinema, utilizando fita magnética em rolo aberto ou cartucho selado, registrando ao mesmo tempo, em pista de som auxiliar, um sinal de referência de sincronismo para possibilitar a reprodução sincrônica, em tempo real, da imagem e do som da cena",0
+8519.81.90,02,Toca-fitas,19.5
+8519.81.90,03,"Aparelhos de gravação e de reprodução de som, de fitas magnéticas",19.5
+8519.89.00,01,Aparelhos cinematográficos de reprodução de som,11.7
+8521.90.00,01,Aparelhos de reprodução de imagem e som em disco por meio óptico ou optomagnético,25
+8523.29.90,01,"Fitas magnéticas, não gravadas",16.25
+8523.29.90,02,Fitas magnéticas gravadas com matéria didática,0
+8523.29.90,03,"Fitas magnéticas para gravação simultânea de imagem e som, próprias para televisão (vídeo tape), gravadas com matéria de natureza científica ou educativa",3.25
+8523.51.10,01,Das máquinas da posição 84.71,6.5
+8523.51.10,02,Que possam ser utilizados indiferentemente com as máquinas ou aparelhos de duas ou mais das posições 84.70 a 84.72,1.3
+8525.50.29,01,"Transmissores digitais de televisão, em VHF ou UHF, com potência maior ou igual a 1 kW e intermodulação maior que 36 dB",0
+8525.50.29,02,"Sistema irradiante configurável, dedicado à transmissão de sinais de televisão digitais na faixa de frequência de VHF e/ou UHF, com potências irradiadas de até 1 MW RMS e constituídos por: antenas, cabos e/ou linhas rígidas de alimentação, combinadores, réguas de áudio e vídeo (patch panels), radomes, conectores, equipamentos de pressurização e elementos estruturais de fixação",0
+8525.60.20,01,Transmissores-receptores (transceptores) de sinal de televisão digital através de fibra óptica,0
+8525.60.90,01,"Equipamento de sinalização, controle e/ou corte (slicer) do fluxo de dados MPEG",0
+8525.60.90,02,"Transmissores-receptores (transceptores) de rádio digital para televisão digital terrestre, com interfaces digitais DVB-ASI e/ou ISDB-T clock data",0
+8525.89.19,01,Lupa eletrônica do tipo utilizado por pessoas com deficiência visual,0
+8525.89.29,01,Câmeras de video de imagens fixas,20
+8527.91.00,01,Rádio com toca-discos digitais a laser,20
+8528.71.19,01,Receptores de sinais de televisão via cabo,5
+8528.71.90,01,Receptores de sinais de televisão via cabo,20
+8529.90.19,01,"Codificadores para sinais de áudio, vídeo de alta definição MPEG-2 e/ou MPEG-4 (protocolo H.264) para sistema de transmissão de sinais de televisão digital terrestre",0
+8529.90.20,01,Peças plásticas moldadas por injeção,10
+8531.20.00,01,"Quadro de sinalização, próprio para dar informações relativas à venda de mercadorias, constituído de painel eletrônico e respectivos dispositivos de comando e controle (unidade funcional)",0
+8536.30.90,01,"Dispositivos de transientes de tensão, para proteção de transmissores, de potência igual ou superior a 20 kW",3.25
+8536.50.90,01,"Interruptor de embutir ou sobrepor, rotativo ou de alavanca, para sistema elétrico em 24 V, próprio para ônibus ou caminhões",2.6
+8536.50.90,02,Chaves de faca,3.25
+8536.50.90,03,Do tipo utilizado em residências,3.25
+8539.21.10,01,Lâmpadas dicroicas,13
+8539.21.90,01,Lâmpadas dicroicas,13
+8539.22.00,01,"Lâmpadas incandescentes, de tensão superior a 100 V",13
+8539.29.10,01,"Para iluminação e projeção, de temperatura de cor superior a 3.000°K, exclusivamente para cinematografia, cinema e atividades semelhantes, em qualquer base",0
+8539.29.90,01,"Para iluminação e projeção, de temperatura de cor superior a 3.000°K, exclusivamente para cinematografia, cinema e atividades semelhantes, em qualquer base",0
+8539.29.90,02,"Lâmpadas incandescentes, de tensão superior a 100 V",13
+8539.31.11,01,"De descarga em baixa pressão, com eficiência superior a 40 lúmens/W (lâmpada fluorescente compacta)",0
+8539.31.19,01,"De descarga em baixa pressão, com eficiência superior a 40 lúmens/W (lâmpada fluorescente compacta)",0
+8539.31.20,01,"De descarga em baixa pressão, de base única, sem reator eletrônico incorporado, com eficiência superior a 40 lúmens/W (lâmpada fluorescente compacta)",0
+8539.32.10,01,Lâmpadas mistas,29.25
+8539.32.20,01,De alta pressão,0
+8541.43.00,01,Células solares,0
+8542.31.10,01,Obtidos por tecnologia bipolar,3.25
+8542.32.10,01,Obtidas por tecnologia bipolar,3.25
+8542.32.99,01,De óxido metálico,1.3
+8542.39.20,01,Obtidos por tecnologia bipolar,3.25
+8543.20.00,01,"Geradores de sinais de teste e referência de vídeo nos padrões SDI e HD-SDI, com capacidade de geração de diferentes sinais de teste, dentre eles o color bars e zoneplate",0
+8543.70.11,01,De média ou de alta frequência,13
+8543.70.12,01,De média ou de alta frequência,13
+8543.70.13,01,De média ou de alta frequência,13
+8543.70.14,01,De média ou de alta frequência,13
+8543.70.15,01,De média ou de alta frequência,13
+8543.70.19,01,De média ou de alta frequência,13
+8543.70.36,01,"Roteadores-comutadores (trouting switcher), contendo mais de 20 entradas e mais de 16 saídas de áudio e/ou vídeo, com interface de entrada de vídeo SDI e HD-SDI e saídas em SDI e HD SDI, entradas de áudio analógico e/ou digital ou capacidade para áudio embedded",0
+8543.70.39,01,"Gravador-reprodutor e editor de imagem e som, em discos, por meio magnético, óptico ou optomagnético",3.25
+8543.70.39,02,"Aparelho de gravação ou reprodução, e edição, de imagem e som de televisão em disco rígido, por meio magnético, óptico ou optomagnético",0
+8543.70.99,01,"Amplificadores seriais digitais para distribuição de sinais de vídeo, com retemporizador",0
+8544.30.00,01,Para sistema elétrico em 24 V,2.6
+8544.49.00,01,Para tensão não superior a 80 V,3.25
+8549.11.00,01,Acumuladores inservíveis,9.75
+8549.12.00,01,"Desperdícios, resíduos e sucatas, à base de cádmio, exceto seus compostos químicos",0
+8549.12.00,02,"Desperdícios, resíduos e sucatas, contendo compostos químicos de cádmio ou de mercúrio",6.5
+8549.12.00,03,"Pilhas, baterias de pilhas e acumuladores elétricos, inservíveis, exceto acumuladores de chumbo-ácido",9.75
+8549.13.00,01,"Desperdícios, resíduos e sucatas, contendo compostos químicos de níquel ou de lítio",6.5
+8549.13.00,02,"Pilhas, baterias de pilhas e acumuladores elétricos, inservíveis",9.75
+8549.14.00,01,"Desperdícios, resíduos e sucatas, contendo compostos químicos de níquel ou de lítio",6.5
+8549.14.00,02,"Pilhas, baterias de pilhas e acumuladores elétricos, inservíveis",9.75
+8549.19.00,01,"Desperdícios, resíduos e sucatas, contendo compostos químicos de níquel ou de lítio",6.5
+8549.19.00,02,"Pilhas, baterias de pilhas e acumuladores elétricos, inservíveis, exceto acumuladores de chumbo-ácido",9.75
+8549.21.00,01,"Produtos usados no final de seu ciclo de vida, imprestáveis para uso em sua função original, considerados resíduos eletrônicos",0
+8549.29.00,01,"Produtos usados no final de seu ciclo de vida, imprestáveis para uso em sua função original, considerados resíduos eletrônicos",0
+8549.31.00,01,"Produtos usados no final de seu ciclo de vida, imprestáveis para uso em sua função original, considerados resíduos eletrônicos",0
+8549.39.00,01,"Produtos usados no final de seu ciclo de vida, imprestáveis para uso em sua função original, considerados resíduos eletrônicos",0
+8549.91.00,01,"Produtos usados no final de seu ciclo de vida, imprestáveis para uso em sua função original, considerados resíduos eletrônicos",0
+8549.99.00,01,"Produtos usados no final de seu ciclo de vida, imprestáveis para uso em sua função original, considerados resíduos eletrônicos",0
+8701.91.00,01,Com tomada de força mecânica ou hidráulica,0
+8701.92.00,01,Com tomada de força mecânica ou hidráulica,0
+8701.93.00,01,Com tomada de força mecânica ou hidráulica,0
+8701.94.90,01,Com tomada de força mecânica ou hidráulica,0
+8701.95.90,01,Com tomada de força mecânica ou hidráulica,0
+8702.10.00,01,"Com volume interno de habitáculo, destinado a passageiros e motorista, superior a 6 m³, mas inferior a 9 m³",6.5
+8702.10.00,02,"Com volume interno de habitáculo, destinado a passageiros e motorista, igual ou superior a 9 m³",0
+8702.20.00,01,"Com volume interno de habitáculo, destinado a passageiros e motorista, superior a 6 m³, mas inferior a 9 m³",6.5
+8702.20.00,02,"Com volume interno de habitáculo, destinado a passageiros e motorista, igual ou superior a 9 m³",0
+8702.30.00,01,"Com volume interno de habitáculo, destinado a passageiros e motorista, superior a 6 m³, mas inferior a 9 m³",6.5
+8702.30.00,02,"Com volume interno de habitáculo, destinado a passageiros e motorista, igual ou superior a 9 m³",0
+8702.40.90,01,"Com volume interno de habitáculo, destinado a passageiros e motorista, superior a 6 m³, mas inferior a 9 m³",6.5
+8702.40.90,02,"Com volume interno de habitáculo, destinado a passageiros e motorista, igual ou superior a 9 m³",0
+8702.90.00,01,"Com volume interno de habitáculo, destinado a passageiros e motorista, superior a 6 m³, mas inferior a 9 m³",6.5
+8702.90.00,02,"Com volume interno de habitáculo, destinado a passageiros e motorista, igual ou superior a 9 m³",0
+8703.23.10,01,"De cilindrada superior a 1.500 cm³, mas não superior a 2.000 cm³",9.78
+8703.23.90,01,"De cilindrada superior a 1.500 cm³, mas não superior a 2.000 cm³",9.78
+8704.21.10,01,"De camionetas, furgões, pick-ups e semelhantes",5.2
+8704.21.20,01,"De camionetas, furgões, pick-ups e semelhantes",2.6
+8704.21.30,01,"De camionetas, furgões, pick-ups e semelhantes",2.6
+8704.21.90,01,"De camionetas, furgões, pick-ups e semelhantes",5.2
+8704.21.90,02,Carro-forte para transporte de valores,6.5
+8704.23.90,01,"Veículo automóvel para transporte de toras de madeira, denominado comercialmente “trator florestal” e, tecnicamente, “forwarder”, exceto os do código 8704.23.40",3.25
+8704.31.10,01,De caminhão,0
+8704.31.20,01,Caminhão,0
+8704.31.30,01,Caminhão,0
+8704.31.90,01,Caminhão,0
+8704.41.00,01,"Chassis com motor e cabina, de furgões, pick-ups, camionetas e semelhantes",5.2
+8704.41.00,02,"Furgões, pick-ups, camionetas e semelhantes, com caixa basculante, ou frigoríficos, ou isotérmicos",2.6
+8704.41.00,03,"Outros furgões, pick-ups, camionetas e semelhantes",5.2
+8704.41.00,04,Carro-forte para transporte de valores,6.5
+8704.43.00,01,"Veículo automóvel para transporte de toras de madeira, denominado comercialmente “trator florestal” e, tecnicamente, “forwarder”",3.25
+8704.51.00,01,"Chassis com motor e cabina, exceto de caminhão",6.5
+8704.51.00,02,"Com caixa basculante ou frigoríficos ou isotérmicos, exceto caminhões",2.6
+8704.51.00,03,"Caminhões, inclusive com caixa basculante, ou frigoríficos ou isotérmicos; chassis de caminhão com motor e cabina",0
+8706.00.10,01,"De veículos dos Ex 01 e 02 dos códigos 8702.10.00, 8702.20.00, 8702.30.00, 8702.40.90 e 8702.90.00",0
+8706.00.90,01,De caminhões,0
+8707.90.90,01,"De veículos dos Ex 01 e 02 dos códigos 8702.10.00, 8702.20.00, 8702.30.00, 8702.40.90 e 8702.90.00",0
+8708.80.00,01,"Amortecedores de suspensão de veículos das posições 87.02, 87.04 (exceto a subposição 8704.10) e 87.05 e das subposições 8701.21 a 8701.29",2.6
+8708.80.00,02,"Amortecedores de suspensão, exceto os do Ex 01",10.4
+8708.92.00,01,"De veículos das posições 87.01, 87.02, 87.04 e 87.05 (exceto partes)",2.6
+8708.92.00,02,Partes,3.25
+8708.93.00,01,"De veículos das posições 87.01, 87.02, 87.04 e 87.05",2.6
+8712.00.10,01,Bicicletas com câmbio,10
+8714.10.00,01,Peças plásticas moldadas por injeção,12
+8716.80.00,01,"Carrinhos de tração manual, de ferro, para construção",0
+8716.80.00,02,Veículos de tração animal,0
+8806.21.00,01,Concebidos para a obtenção ou captura de imagens,13
+8806.22.00,01,Concebidos para a obtenção ou captura de imagens,13
+8806.23.00,01,Concebidos para a obtenção ou captura de imagens,13
+8806.24.00,01,Concebidos para a obtenção ou captura de imagens,13
+8806.29.00,01,Concebidos para a obtenção ou captura de imagens,13
+8806.91.00,01,Concebidos para a obtenção ou captura de imagens,13
+8806.92.00,01,Concebidos para a obtenção ou captura de imagens,13
+8806.93.00,01,Concebidos para a obtenção ou captura de imagens,13
+8806.94.00,01,Concebidos para a obtenção ou captura de imagens,13
+8806.99.00,01,Concebidos para a obtenção ou captura de imagens,13
+8905.90.00,01,Docas flutuantes,3.25
+8907.90.00,01,Balsas para transporte,5
+8908.00.00,01,Estruturas flutuantes,0
+9002.11.19,01,Para câmeras cinematográficas,0
+9006.59.59,01,Câmeras fotográficas dos tipos utilizados para preparação de clichês ou cilindros de impressão,0
+9006.69.00,01,Lâmpadas de luz relâmpago (flash),6.5
+9007.10.00,01,Para filmes de 16 mm de largura ou de largura não inferior a 35 mm,0
+9010.50.90,01,Moviolas,0
+9013.80.00,01,Conta-fios,3.25
+9018.39.99,01,Para transfusão de sangue ou infusão intravenosa,0
+9018.49.99,01,Cadeiras de dentista equipadas com aparelhos de odontologia,2.6
+9018.90.99,01,Conjunto descartável de circulação assistida e conjunto descartável de balão intra-aórtico,0
+9018.90.99,02,Máquinas cicladoras para diálise peritoneal e seus acessórios,0
+9018.90.99,03,"Equipamento de drenagem, cápsula protetora do adaptador de titânio, equipamentos de transferência ou similar e equipamento cassete cicladora, para diálise peritoneal",0
+9018.90.99,04,Kits para aférese,0
+9022.21.90,01,"Exceto aparelhos que utilizem radiações alfa, beta ou gama",5.2
+9022.90.99,01,"Exceto partes e acessórios de aparelhos que utilizem radiações alfa, beta ou gama",5.2
+9023.00.00,01,Lâmina preparada (preparação microscópica),0
+9023.00.00,02,Modelos de anatomia para ensino,0
+9029.20.10,01,Para veículos com sistema elétrico em 24 V,2.6
+9031.49.90,01,Projetores de perfis,0
+9102.91.00,01,"Com caixa de metal comum, mesmo dourado, prateado ou platinado",9.75
+9102.91.00,02,Com caixa de plásticos sem carga ou reforço de fibras de vidro,9.75
+9303.90.90,01,Pistolas de sinalização,19.5
+9306.29.00,01,Partes de cartuchos,13
+9306.30.00,01,"Cartuchos sem projétil ou carga de chumbo, para uso técnico, e suas partes",6.5
+9306.30.00,02,Para pistolas de rebitar ou de usos semelhantes ou para pistolas de êmbolo cativo para abate de animais,6.5
+9401.20.00,01,De ônibus,2.6
+9401.20.00,02,De caminhões,2.6
+9401.20.00,03,De tratores agrícolas ou de colheitadeiras,2.6
+9401.20.00,04,"De ferro ou aço, dos tipos usados em colheitadeiras",2.6
+9405.49.00,01,"Refletores (projetores) de lâmpadas halógenas ou HMI, abertos ou com lentes de Fresnel",0
+9504.20.00,01,Gizes,13
+9504.50.00,01,"Partes e acessórios dos consoles e das máquinas de jogos de vídeo cujas imagens são reproduzidas numa tela de um receptor de televisão, num monitor ou noutra tela ou superfície externa",9
+9504.50.00,02,"Máquinas de jogos de vídeo com tela incorporada, portáteis ou não, e suas partes",0
+9504.90.90,01,Dados e copos para dados,26
+9504.90.90,02,"Ficha, marca (escore) ou tento",26
+9506.91.00,01,Peças plásticas moldadas por injeção,20
+9508.10.00,01,"Coleções de animais de zoológicos, de circos ou de outras atrações itinerantes",0
+9612.10.00,01,De poliéster,20
+9619.00.00,01,"Artigos de vestuário, de plástico",3.25
+9619.00.00,02,Outros artigos de plástico,9.75
+9701.22.00,01,"De flores, botões de flores ou de outras partes de plantas naturais, ervas, musgos e líquens",NT
+9701.29.00,01,"De flores, botões de flores ou de outras partes de plantas naturais, ervas, musgos e líquens",NT
+9701.92.00,01,"De flores, botões de flores ou de outras partes de plantas naturais, ervas, musgos e líquens",NT
+9701.99.00,01,"De flores, botões de flores ou de outras partes de plantas naturais, ervas, musgos e líquens",NT

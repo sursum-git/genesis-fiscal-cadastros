@@ -15,6 +15,8 @@
   },
   "tipi": {
     "url": "https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/legislacao/documentos-e-arquivos/tipi.xlsx",
-    "sha256": "d155f1baafb4039dcb74f97bb5abc1aec69f6760da9bd3f94a90bd40b33a2e9a"
+    "sha256": "d155f1baafb4039dcb74f97bb5abc1aec69f6760da9bd3f94a90bd40b33a2e9a",
+    "edicao": "TIPI 2022 atualizada pelo ADE RFB 1/2026, retificado no DOU de 12/02/2026",
+    "data_referencia": "2026-11-16"
   }
 }
