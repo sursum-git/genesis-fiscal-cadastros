@@ -4,6 +4,7 @@ Este repositório distribui pacotes públicos de cadastros e parametrização do
 
 | Pasta | Conteúdo |
 | --- | --- |
+| `cadastros/` | Cadastros de referência compartilhados |
 | `mensagens/` | Catálogo de mensagens |
 | `programas/` | Programas e versões |
 | `regras/` | Regras catalogadas |
