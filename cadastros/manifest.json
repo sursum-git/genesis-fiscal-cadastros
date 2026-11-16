@@ -1,0 +1,33 @@
+{
+  "data_version": "2026.11.16.1",
+  "files": {
+    "cest.csv": "61c3e9a4ddaca25f8e74ca8aebab45217b83df3a8027278b6e5035922aaca184",
+    "cnae.csv": "67cd6269479d7bb0d0b88178c315d597ee20ec70998070fa0b2c2daf9b454fe9",
+    "fontes.json": "a5d95e667cc87eab4bbbbbbc2683fe4272f867538aa8a136b0c585a148734e13",
+    "ncm.csv": "0e2e0c3940f4084707d6469af77d87d7f31bc4fa8d5db91376dd6fb34f918e69"
+  },
+  "format_version": 1,
+  "required_modules": [
+    "fiscal_br_base"
+  ],
+  "scope": "genesis_reference_catalog",
+  "tables": {
+    "cest.csv": {
+      "key": "codigo",
+      "model": "cest.br",
+      "records": 1051
+    },
+    "cnae.csv": {
+      "key": "codigo",
+      "model": "cnae.br",
+      "records": 1332
+    },
+    "ncm.csv": {
+      "key": "codigo",
+      "model": "ncm.br",
+      "records": 10516
+    }
+  },
+  "validated_code_commit": "54be1bd05b01ea43137d1ec3971ffb245c3960ba",
+  "validated_module_version": "19.0.2.25.0"
+}

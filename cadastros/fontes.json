@@ -1,0 +1,20 @@
+{
+  "ncm": {
+    "url": "https://portalunico.siscomex.gov.br/classif/api/publico/nomenclatura/download/json",
+    "sha256": "3fb7b068c529432da1868a0293ca3f342c1cc68bded4a95c06e6d1246ede9ab3",
+    "data_atualizacao_original": "Vigente em 16/11/2026"
+  },
+  "cnae": {
+    "url": "https://cnae.ibge.gov.br/images/concla/documentacao/CNAE_Subclasses_2_3_Estrutura_Detalhada.xlsx",
+    "sha256": "96853a62e65a200ddb54b28bc7e8ad22fc7a0306cd3f21c21e63f1b934dc06ac",
+    "complemento": "https://cnae.ibge.gov.br/?subclasse=9900800&tipo=cnae&versao=9.1.0&view=subclasse"
+  },
+  "cest": {
+    "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2018/CV142_18",
+    "sha256": "ae6540b124d1be3653d8ec46ce98be0de93c07d8cd457f1107d0cafe90f0d23a"
+  },
+  "tipi": {
+    "url": "https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/legislacao/documentos-e-arquivos/tipi.xlsx",
+    "sha256": "d155f1baafb4039dcb74f97bb5abc1aec69f6760da9bd3f94a90bd40b33a2e9a"
+  }
+}
