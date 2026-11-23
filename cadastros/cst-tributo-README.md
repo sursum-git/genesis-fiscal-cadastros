@@ -1,0 +1,7 @@
+# CST por tributo
+
+`cst-tributo.csv` é um catálogo de referência com 140 linhas para ICMS (inclui CSOSN), IPI, PIS, Cofins, IBS e CBS. Os códigos são textos: preserve os zeros iniciais. A chave é `tributo_codigo` + `c_sigla`; `si_tipo` usa 1 para entrada, 2 para saída e 3 para ambos. `log_simples` identifica CSOSN. A coluna `fonte` registra a referência de cada linha. O CST 810 refere-se a ajuste de IBS na ZFM e foi associado apenas ao IBS.
+
+Fontes: [leiaute oficial NF-e da Receita Estadual do Paraná](https://moc.sped.fazenda.pr.gov.br/NFe_NFCe/NFe_NFCe/Leiaute.html), grupos de ICMS, IPI, PIS e Cofins; [tabela oficial de CST IBS/CBS, Informe Técnico 2025.002 v1.71](https://moc.sped.fazenda.pr.gov.br/BPe/TabelasEInformacoes.html), item 11.2. Consultadas em 23/11/2026. Os títulos são descrições resumidas; as fontes oficiais prevalecem. A seleção de um CST para uma modalidade não substitui a análise de sua aplicabilidade à operação e ao documento fiscal.
+
+FCP não tem tabela de CST própria no leiaute NF-e; ISS tem indicador de exigibilidade, não incluído como CST. PCC não é uma tabela nacional independente de CST; PIS e Cofins são cadastrados separadamente. A lista não cria relações automáticas com modalidades. O módulo `fiscal_br_base` a partir da versão 19.0.2.37.0 carrega os registros ausentes sem sobrescrever registros preexistentes com o mesmo tributo e código. Este CSV é independente do ZIP histórico 2026.11.16.2 e do formato de importação de perfis.
